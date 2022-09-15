@@ -29,17 +29,13 @@ Senior Backend Engineer
 
 ## Career Summary
 ### 博采科技 BravoTECH 2013/9 – 2015/8 
-
-Engineer 
-
-Technical Assistant Manager 
-
+- Engineer
+- Technical Assistant Manager 
 System integration and solution consulting
 
 ### 遠傳電信 Fareastone Telecom 2015/9 – Present 
-  IT Engineer
-  
-  IT Senior Engineer
+- IT Engineer
+- IT Senior Engineer
   
  #### System development and operation:
    - Workflow:
@@ -69,4 +65,4 @@ System integration and solution consulting
 
 Users can use the ecoupons at physical stores or online self-service on FETNET website, to pay telecom or small bills
 
-~50,000 API calls per day, 100~300 API request every 5 minutes
+~ 50,000 API calls per day, 100~300 API request every 5 minutes

@@ -13,17 +13,17 @@ Senior Backend Engineer
 - 6 years Java
   - Restful Web Service: Spring MVC + Spring Boot + Mybatis
   - Development experience with Oracle database, stored procedure in PL/SQL
-  - Familiar with linux commands, Shell script
+  - Familiar with Linux commands, Shell script
   - Development experience with Event bus(Tibco EMS)
 - 1 years TypeScript
-  - API on Azure Funcitons with Type Script
+  - API on Azure Functions with Type Script
   - Development experience with Azure Cosmos NoSQL database
   - Familiar with Azure cloud services
 
 ## Skill
 - Program Language: Java, JavaScript, TypeScript
 - Operation System: Windows/ Linux 
-- Database: Oracle, MsSql, MySql, MongoDB, Cosmos DB
+- Database: Oracle, MS SQL, My SQL, MongoDB, Cosmos DB
 - Version Control: SVN, Git
 - Others: Shell script, Docker, Jenkins, Azure cloud service, Gitlab, Azure Devops
 
@@ -40,29 +40,29 @@ System integration and solution consulting
  #### System development and operation:
    - Workflow:
   
-  Internal electronic signature system, sign-off flow controll and rule design
+  Internal electronic signature system, sign-off flow control and rule design
 
   - ICE:
  
- Middle layer behind online and offline channels, provides composit services to fulfill requeriment of billing infomation, customer data
+ Middle layer behind online and offline channels, provides composite services to fulfill requirement of billing information, customer data
  
  Architecture planning and implementation of end-to-end data sync batch
 
  - NTF, CEM
  
- User roaming data usage alert, and two-way campaign service
+ User mobile roaming data usage alert, and two-way campaign service
  
- - FET Super APP
+ - FET Super APP middleware service
  
  Service management, traffic control planning and performance optimization
  
  Provide API to integrate the business logic of the dual platform
  
- E2E requirements analysis, design and development
+ End-to-end requirements analysis, design and development
 
 #### Recent project:
 - Telecom Coupon
 
-Users can use the ecoupons at physical stores or online self-service on FETNET website, to pay telecom or small bills
+Users can use e-coupons at physical stores or online self-service on FETNET website, to pay telecom or small bills
 
 ~ 50,000 API calls per day, 100~300 API request every 5 minutes

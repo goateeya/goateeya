@@ -44,7 +44,7 @@ System integration and solution consulting
 
   - ICE:
  
- Middle layer behind online and offline channels, provides composition services to fulfill requeriment of billing infomation, customer data
+ Middle layer behind online and offline channels, provides composit services to fulfill requeriment of billing infomation, customer data
  
  Architecture planning and implementation of end-to-end data sync batch
 

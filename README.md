@@ -28,7 +28,7 @@ Senior Backend Engineer
 - Others: Shell script, Docker, Jenkins, Azure cloud service, Gitlab, Azure Devops
 
 ## Career Summary
-###博采科技 BravoTECH 2013/9 – 2015/8 
+### 博采科技 BravoTECH 2013/9 – 2015/8 
 
 Engineer 
 
@@ -41,7 +41,7 @@ System integration and solution consulting
   
   IT Senior Engineer
   
- System development and operation:
+ #### System development and operation:
    - Workflow:
   
   Internal electronic signature system, sign-off flow controll and rule design
@@ -64,34 +64,9 @@ System integration and solution consulting
  
  E2E requirements analysis, design and development
 
+#### Recent project:
+- Telecom Coupon
 
+Users can use the ecoupons at physical stores or online self-service on FETNET website, to pay telecom or small bills
 
- 系統開發整合及專案執行 
-
- 專案經歷: 
-
-(遠傳電信)Digital Media Portal(Java + Struts2 + Oracle PL/SQL) 
-
-(遠傳電信)FMS Phase II(ASP.NET-VB , Oracle) 
-
-(遠傳電信)Bill Out Feed File Post Process(JAVA) 
-
-(遠傳電信)FMS OSRS(ASP.NET-VB , Oracle) 
-
-(遠傳電信)DW BOMART (Perl、MSSQL) 
-
-(遠傳電信)Event Center (Java + Struts2 + MSSQL) 
-
-(遠傳電信)Mobile DAR 4G(ASP.NET-VB, jQuery Mobile) 
-
-(遠傳電信)e-Sales Mobile(C#.NET、jQuery Mobile) 
-
-(遠傳電信)RSMP CR(Java , Oracle, jQuery) 
-
-(安源通訊)Qware_Work_Order (Java , MSSQL, jQuery) 
-
-(遠傳電信)Short Message Peer to Peer (Java) 
-
-(遠傳電信)Prepaid報表轉換 (Oracle PL/SQL) 
-
-(遠傳電信)NWCP (Java + Struts2 +asix2 + Oracle PL/SQL) 
+~50,000 API calls per day, 100~300 API request every 5 minutes

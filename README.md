@@ -52,7 +52,7 @@ System integration and solution consulting
   
 Internal electronic signature system, sign-off flow control and rule design
 
-- ICE:
+- ICE
  
 Middle layer behind online and offline channels, provides composite services to fulfill requirement of billing information, customer data
  

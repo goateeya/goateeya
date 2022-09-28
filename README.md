@@ -17,7 +17,7 @@ Senior Backend Engineer
   - API on Azure Functions with TypeScript
   - Development experience with Azure Cosmos NoSQL database
   - Familiar with Azure cloud services
-- 6 years Java
+- 8 years Java
   - Restful Web Service: Spring MVC, Spring Boot, Mybatis, JPA
   - Development experience with Oracle database, stored procedure in PL/SQL
   - Familiar with Linux commands, Shell script

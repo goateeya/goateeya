@@ -7,6 +7,7 @@ goateeya@gmail.com
 0961-100-178
 
 Fu Jen Catholic University - CSIE
+- 2008-2012
 
 Senior Backend Engineer
 
@@ -25,10 +26,11 @@ Senior Backend Engineer
   
 ## Skill
 - Programming Language: Java, TypeScript
-- Operation System: Windows, Linux 
+- Framework: Spring boot, Spring cloud
+- Operation System: Windows, Linux
 - Database: Oracle, MS SQL, My SQL, MongoDB, Cosmos DB
 - Version Control: SVN, Git
-- Others: Shell script, Docker, Jenkins, Azure cloud service, Gitlab, Azure Devops
+- Others: Shell script, Docker, Jenkins, Azure cloud service, Gitlab, Azure Devops, Tibco EMS
 
 ## Career Summary
 
@@ -57,7 +59,7 @@ Senior Backend Engineer
   - Architecture planning and implementation of end-to-end data sync batch
 
 - NTF, CEM
-  - User mobile roaming data usage notification, and two-way SMS campaign service
+  - User mobile roaming and data usage notification, two-way SMS campaign service
  
 - FET Super APP middleware service
   - Service management, traffic control planning and performance optimization
@@ -66,6 +68,8 @@ Senior Backend Engineer
 
 #### Recent project:
 - Telecom Coupon
-  - Telecom coupons can be used to pay telecom bill, which direct carried bill included
-  - Telecom coupons are well integrated in the APP ecoupon feature. With FET Super APP users can use e-coupons at physical stores by scanning barcode,  use the ecoupon immediately in the self-service of Far EasTone official website, but also can redeem immediately in APP ecoupon feature
-  - ~ 50,000 API calls per day, 100~300 API request every 5 minutes
+  - In our Super APP, you can use our virtual currency to buy Telecom Coupon, which you can use to discount you telecom payment bill.
+  - ~ 50,000 API requests per day, 100~300 API requests every 5 minutes
+- CDC 1922 SMS
+  - In response to the Covid-19, the mass movement tracking measures from May 2021 to April 2022
+  - ~ 2M requests per day

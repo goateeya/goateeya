@@ -41,7 +41,13 @@ Senior Backend Engineer
 - Engineer
 - Technical Assistant Manager
   
-  System integration and solution consulting
+#### System integration and solution consulting:
+- RSMP
+  - FET report managerment portal, centralize reports from different systems, automatically synchronize files to users, and integrate well with service requirement systems
+
+- WO
+  - FET ISP and fixed network, hardware construction work dispatch system
+  
 
 ### 遠傳電信 Fareastone Telecom 2015/9 – Present 
 

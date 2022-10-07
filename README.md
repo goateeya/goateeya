@@ -19,14 +19,14 @@ Senior Backend Engineer
   - Development experience with Azure Cosmos NoSQL database
   - Familiar with Azure cloud services
 - 8 years Java
-  - Restful Web Service: Spring MVC, Spring Boot, Mybatis, JPA
+  - Restful Web Service: Spring MVC, Spring Boot, Mybatis, JPA, Mockito
   - Development experience with Oracle database, stored procedure in PL/SQL
   - Familiar with Linux commands, Shell script
   - Development experience with Event bus(Tibco EMS)
   
 ## Skill
 - Programming Language: Java, TypeScript
-- Framework: Spring boot, Spring cloud
+- Framework: Spring boot, Spring cloud, Mockito
 - Operation System: Windows, Linux
 - Database: Oracle, MS SQL, My SQL, MongoDB, Cosmos DB
 - Version Control: SVN, Git
@@ -74,8 +74,8 @@ Senior Backend Engineer
 
 #### Recent project:
 - Telecom Coupon
-  - In our Super APP, you can use our virtual currency to buy Telecom Coupon, which you can use to discount you telecom payment bill.
-  - ~ 50,000 API requests per day, 100~300 API requests every 5 minutes
+  - In our Super APP, you can use our virtual currency to buy Telecom Coupon, which you can use to discount you telecom payment bill
+  - Distributed system architecture with serverless, APM management, message queue and NoSQL database
 - CDC 1922 SMS
   - In response to the Covid-19, the mass movement tracking measures from May 2021 to April 2022
   - ~ 2M requests per day

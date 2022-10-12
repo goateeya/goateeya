@@ -12,41 +12,27 @@ Fu Jen Catholic University - CSIE
 Senior Backend Engineer
 
 ## Experience
-- Middleware service development, architecture, CICD
+- Middleware service development, architecture, CI/CD
 - Project technical consulting, end-to-end business flow planning
 - 1 years TypeScript
   - API on Azure Functions with TypeScript
   - Development experience with Azure Cosmos NoSQL database
   - Familiar with Azure cloud services
 - 8 years Java
-  - Restful Web Service: Spring MVC, Spring Boot, Mybatis, JPA, Mockito
+  - Spring MVC, Spring Boot, Mybatis, JPA, Mockito
   - Development experience with Oracle database, stored procedure in PL/SQL
   - Familiar with Linux commands, Shell script
   - Development experience with Event bus(Tibco EMS)
   
 ## Skill
 - Programming Language: Java, TypeScript
-- Framework: Spring boot, Spring cloud, Mockito
-- Operation System: Windows, Linux
-- Database: Oracle, MS SQL, My SQL, MongoDB, Cosmos DB
+- Framework: Spring, Spring Boot, Spring Cloud, JPA, Mybatis, Mockito
+- DevOps: Scrum, Jenkins, Gitlab CI/CD pipeline, Azure DevOps(Azure Board, Azure Pipeline)
+- Database: Oracle DB, MS SQL, MySQL, MongoDB, Azure Cosmos NoSQL DB
 - Version Control: SVN, Git
-- Others: Shell script, Docker, Jenkins, Azure cloud service, Gitlab, Azure Devops, Tibco EMS
+- Others: Linux commands, Shell script, Docker, Jenkins, Azure Cloud Service, Tibco EMS
 
 ## Career Summary
-
-### 博采科技 BravoTECH 2013/9 – 2015/8 
-
-<img src="https://user-images.githubusercontent.com/21367916/190440874-3053e862-08f7-408b-9762-676062f5d64a.png" width="100"/>
-
-- Engineer
-- Technical Assistant Manager
-  
-#### System integration and solution consulting:
-- RSMP
-  - FET report managerment portal, centralize reports from different systems, automatically synchronize files to users, and integrate well with service requirement systems
-
-- WO
-  - FET ISP and fixed network, hardware construction work dispatch system
   
 
 ### 遠傳電信 Fareastone Telecom 2015/9 – Present 
@@ -55,27 +41,92 @@ Senior Backend Engineer
 
 - IT Engineer
 - IT Senior Engineer
-  
- #### System development and operation:
-- Workflow
-  - Internal electronic signature system, sign-off flow control and rule design
 
-- ICE
-  - Middle layer behind online and offline channels, provides composite services to fulfill requirement of billing information, customer data
-  - Architecture planning and implementation of end-to-end data sync batch
+#### Project leading
 
-- NTF, CEM
-  - User mobile roaming and data usage notification, two-way SMS campaign service
- 
+Azure Cloud Service as development solution: *Azure Functions, Azure VMs, Azure Cosmos NoSQL DB, Azure Queue Storage, MySQL*
+
+API gateway/management with IBM API Connect and Azure API Management
+
+Technical project manager in charge of end-to-end solution and architecture planning
+
+Mentor for 2 mentees to this day
+
+*DevOps/Scrum* with *Gitlab CI/CD pipelines and Azure DevOps(Azure Board)*
+
 - FET Super APP middleware service
   - Service management, traffic control planning and performance optimization
   - Provide API to integrate the business logic of the dual platform
   - End-to-end requirements analysis, design and development
 
-#### Recent project:
+#### Service transformation and CI/CD
+
+Microservices development with *Spring Boot, Spring Cloud Gateway, Docker and Kubernetes*
+
+Jenkins pipeline script to manage CI/CD process
+
+Log centralization and management with Kafka and ELK
+ 
+- Workflow
+  - Internal electronic signature system, sign-off flow control and rule design
+
+- ICE
+  - Middle layer behind online and offline channels, provides composite services to fulfill requirement of billing information, customer data
+  - Architecture planning and implementation ETL batch for end-to-end data sync
+- SID
+  - Data modelling and data flow integration with Apache Camel
+  
+#### System enhancement
+System maintaining and enhancement
+
+- CRM service
+  - SOA Bus architecture service with SOAP interface
+  - TIBCO BusinessWorks, TIBCO EMS
+
+- NTF, CEM
+  - User mobile roaming and data usage notification, two-way SMS campaign service
+  - Weblogic, Java, Spring, Oracle DB
+
+### 博采科技 BravoTECH 2013/9 – 2015/8 
+
+<img src="https://user-images.githubusercontent.com/21367916/190440874-3053e862-08f7-408b-9762-676062f5d64a.png" width="100"/>
+
+- Engineer
+- Technical Assistant Manager
+
+#### System integration and solution consulting:
+
+Project/module development experiences with VB.NET, Java, JSP, jQuery
+
+MS SQL, Oracle database experience, performance tuning and stored procedure
+
+ETL job maintenance and development
+
+Maintain the company's own libraries/utils
+
+- RSMP
+  - FET report managerment portal, centralize reports from different systems, automatically synchronize files to users, and integrate well with service requirement systems
+
+- WO
+  - FET ISP and fixed network, hardware construction work dispatch system
+
+## Recent project:
 - Telecom Coupon
-  - In our Super APP, you can use our virtual currency to buy Telecom Coupon, which you can use to discount you telecom payment bill
-  - Distributed system architecture with serverless, APM management, message queue and NoSQL database
+  - Connect our virtual currency Fcoin to online, offline channels and billing system. In our FET APP, you can use fcoin to buy Telecom Coupon, which you can use to discount you telecom payment bill immediately
+  - Centralized coupon system is responsible for coupon status with finite-state machine and transaction control, also providing RESTful API to channels to access coupon data
+  - Distributed system architecture with serverless, API management, message queue and NoSQL database
+  - traffic about 50K requests per day
+- APP
+  - Curation feature
+    - APP presents content personalization by AI computing and weight calculation
+    - Cache data system architecture design for heavy traffic and big size content
+  - Daily login, Retail login, Member referral rewards features
+    - Users can login our APP or scan QRCODE at the specific location to retrieve fcoin
+    - Enter the other user's referral code to get rewarded
+    - Game rule design and implementation, transaction control, security protection
 - CDC 1922 SMS
   - In response to the Covid-19, the mass movement tracking measures from May 2021 to April 2022
-  - ~ 2M requests per day
+  - Message queue as solution for heavy traffic, which about 2M requests per day
+- Omni 3.2
+  - For the purpose of time to market, the system architecture is re-planned and transformed
+  - Centralization of channel rules and real-time synchronization of product data, which takes from 1 day to 30 minutes

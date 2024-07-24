@@ -1,4 +1,4 @@
-# 高誌陽 Gordan Kao
+# 高誌陽(CHIH-YANG KAO) Gordan Kao
 
 <img src="https://user-images.githubusercontent.com/21367916/190450502-be6099a5-d41f-4f91-9931-f3b1ee9e017c.png" width="175"/>
 
@@ -10,10 +10,10 @@ Fu Jen Catholic University - CSIE
 - 2008-2012
 
 ## Experience
-- Full-stack development using Augular and Java Spring
+- Full-stack development using Angular and Java Spring
 - Middleware service development, architecture, CI/CD
 - Project technical consulting, end-to-end business flow and solution planning
-- 1 years TypeScript
+- 1 year TypeScript
   - API on Azure Functions with TypeScript
   - Development experience with Azure Cosmos NoSQL database
   - Familiar with Azure cloud services
@@ -44,11 +44,18 @@ Fu Jen Catholic University - CSIE
 #### Full stack Support
 
 
-Full stack development with DM-CAAS project
+Full-stack development experience
 
-Support for code quality, unit and integration test maintenance, and security upgrades
+Improved and ensured code quality, wrote and maintained unit and integration tests, and assisted in security improvements and upgrades
 
-Pair programming and construct new features continuously
+Pair programming culture and continuous development of new features
+
+- InterQual Connect:
+  - A system that records medical diagnoses for patients in the United States and provides health insurance application services, integrating content and services (CaaS) between healthcare providers and insurance companies.
+  - Implementation and optimization of features such as authorization verification, content version control management, and administrator mode.
+  - Security maintenance and version migration upgrades.
+  - Implementation of accessibility features and UI adjustments.
+  - Comprehensive testing framework: Frontend with Playwright, Backend with Mockito.
 
 ### 遠傳電信 Fareastone Telecom 2015/9 – 2022/12
 
@@ -126,8 +133,10 @@ Maintain the company's own libraries/utils
   - FET ISP and fixed network, hardware construction work dispatch system
 
 ## Recent project:
-- DM-CAAS
-  - Decision Management Content as a Service, which provides the most up-to-date clinical evidence-based criteria and software, and integrates facility and payer
+- InterQual Connect
+  - As one of the largest software companies in the U.S. health insurance industry, it provides the latest clinical evidence-based criteria and software to clients, integrating services between healthcare providers and insurance companies
+  - Ensures the sharing or exporting of medical examination results while protecting patient privacy, and automates the integration with partners' existing systems, such as hospitals or insurance companies
+  - Comprehensive testing environment and processes, utilizing TeamCity to establish CI/CD workflows with over 8,000 test cases, and ensuring code style and quality with PMD and CheckStyle
 - Telecom Coupon
   - Connect our virtual currency Fcoin to online, offline channels and billing system. In our FET APP, you can use fcoin to buy Telecom Coupon, which you can use to discount you telecom payment bill immediately
   - Centralized coupon system is responsible for coupon status with finite-state machine and transaction control, also providing RESTful API to channels to access coupon data

@@ -13,7 +13,7 @@ Fu Jen Catholic University - CSIE
 - 使用Angular和Java全端開發經驗
 - 中間層(Middleware)服務開發，架構規劃，CI/CD實作
 - 專案技術顧問，end-to-end流程以及解決方案規劃
-- 1 years TypeScript
+- 1 year TypeScript
   - RESTfulAPI以及微服務架構:Azure Functions, TypeScript
   - Azure Cosmos NoSQL database實務開發經驗
   - 熟悉Azure cloud services
@@ -28,7 +28,7 @@ Fu Jen Catholic University - CSIE
 ## Skill
 - Programming Language: Java, TypeScript
 - Framework: Spring, Spring Boot, Spring Cloud, JPA, Mybatis, Mockito
-- DevOps: Scrum, Jenkins, Gitlab CI/CD pipeline, Azure DevOps(Azure Board, Azure Pipeline)
+- DevOps: Scrum, Jenkins, GitLab CI/CD pipeline, Azure DevOps(Azure Board, Azure Pipeline)
 - Database: Oracle DB, MS SQL, MySQL, MongoDB, Azure Cosmos NoSQL DB
 - Version Control: SVN, Git
 - Others: Linux commands, Shell script, Docker, Jenkins, Azure Cloud Service, Tibco EMS
@@ -44,13 +44,21 @@ Fu Jen Catholic University - CSIE
 #### Full stack Support
 
 
-DM-CAAS專案全端開發經驗
+全端專案開發經驗
 
-改善並保證程式碼品質，單元以及整合測試馬撰寫維護，協助安全性改善以及升級
+改善並保證程式碼品質，單元以及整合測試撰寫與維護，協助安全性改善以及系統升級
 
 Pair programming文化以及持續開發新feature
 
-### 遠傳電信 Fareastone Telecom 2015/9 – Present 
+期間專案:
+- InterQual Connect:
+  - 開發並維護一個為美國病患記錄醫療診斷結果及提供健康保險申請服務的系統，該系統能夠無縫整合醫療單位和保險業者的內容即服務(CaaS)
+  - 優化並實作了授權驗證、內容版本控制管理和管理員模式等功能，確保系統運行的穩定性和安全性
+  - 負責安全性維護與版本遷移升級，確保系統的安全性
+  - 實施無障礙功能和UI調整，提高系統的用戶友好性和可訪問性
+  - 前端使用Playwright和後端使用Mockito進行單元測試和整合測試
+
+### 遠傳電信 Fareastone Telecom 2015/9 – 2022/12 
 
 <img src="https://user-images.githubusercontent.com/21367916/190441042-1a87ca66-3ba2-4029-a9b9-78697ea05268.png" width="100"/>
 
@@ -67,7 +75,7 @@ API gateway/management實務經驗: IBM API Connect, Azure API Management
 
 至今已經擔任2位職場新人的職場導師
 
-Agile實作經驗: Scrum, Gitlab CI/CD pipelines, Azure DevOps(Azure Board)
+Agile實作經驗: Scrum, GitLab CI/CD pipelines, Azure DevOps(Azure Board)
 
 期間專案:
 - 遠傳心生活APP middleware service
@@ -86,12 +94,12 @@ Log管理集中: Kafka, ELK
  
 - Workflow
   - 遠傳電信內部電子簽核系統，負責簽核流程中，整體以及關卡間的狀態控制，並提供通路特授規則引擎設計、實作
-  - 服務以Springboot, Mybatis作為開發為開發框架，資料庫使用Oracle DB，並搭配Docker, Kubernetes使服務容器化
+  - 服務以Springboot, Mybatis作為開發框架，資料庫使用Oracle DB，並搭配Docker, Kubernetes使服務容器化
 
 - ICE
   - 作為線上、線下通路系統的中間曾，提供整合性服務給前端系統，包括交易訂單、帳務系統以及客資系統
   - 服務架構設計以及end-to-end資料同步ETL排程batch實作
-  - 服務以Springboot作為開發為開發框架，因為中間層大多應用情境會整合多支API並處理不同系統間共同業務，有使用到Java 8 Future非同步功能來降低傳輸cost，資料庫使用Oracle DB，並搭配Docker, Kubernetes使服務容器化
+  - 服務以Springboot作為開發框架，因為中間層大多應用情境會整合多支API並處理不同系統間共同業務，有使用到Java 8 Future非同步功能來降低傳輸cost，資料庫使用Oracle DB，並搭配Docker, Kubernetes使服務容器化
   - 建置流程自動化，利用Maven, Jenkins來build docker image，並自動部屬至kubernates，並實作健康檢查fail-fast自動重啟pod來降低人工維運成本
   
 - SID
@@ -134,8 +142,10 @@ ETL排程維護以及開發
   - 使用Java, Weblogic以及公司自有的前後端整合框架開發
 
 ## Recent project:
-- DM-CAAS
-  - Decision Management Content as a Service，提供最新的臨床實證標準以及軟體給客戶，並整合醫療單位以及保險業者服務
+- InterQual Connect
+  - 作為美國健康保險產業中市佔率最高的軟體公司之一，InterQual Connect 為客戶提供最新的臨床實證標準資料和軟體，並整合醫療單位與保險業者的服務
+  - 在保障病患個人資料的前提下，系統允許分享或匯出醫療檢查結果，並能自動化對接到合作夥伴（如醫院或是保險業者）的既有系統
+  - 擁有完整的測試環境和流程，利用TeamCity建置CI/CD流程，超過8000個測試案例，並使用PMD和CheckStyle來確保程式碼風格和品質
 - Telecom Coupon 電信帳單折抵券專案
   - 整合遠傳自己推出的虛擬貨幣Fcoin，與線上、線下通路以及後端帳務系統整合。在遠傳心生活可以使用Fcoin可以購買電信帳單折抵券，購買後可以於APP立即做使用馬上折抵至帳單
   - 票券資訊資中化，使用有限狀態機概念掌控交易狀態，除了統一交易狀態外亦提供RESTful API給通路系統存取票券資料

@@ -9,24 +9,25 @@ goateeya@gmail.com
 Fu Jen Catholic University - CSIE
 - 2008-2012
 
-Senior Backend Engineer
-
 ## Experience
+- Full-stack development using Augular and Java Spring
 - Middleware service development, architecture, CI/CD
-- Project technical consulting, end-to-end business flow planning
+- Project technical consulting, end-to-end business flow and solution planning
 - 1 years TypeScript
   - API on Azure Functions with TypeScript
   - Development experience with Azure Cosmos NoSQL database
   - Familiar with Azure cloud services
-- 8 years Java
+  - Development experience with Angular
+- 10 years Java
   - Spring MVC, Spring Boot, Mybatis, JPA, Mockito
   - Development experience with Oracle database, stored procedure in PL/SQL
   - Familiar with Linux commands, Shell script
   - Development experience with Event bus(Tibco EMS)
+  - Unit and integration testing experience
   
 ## Skill
 - Programming Language: Java, TypeScript
-- Framework: Spring, Spring Boot, Spring Cloud, JPA, Mybatis, Mockito
+- Framework: Spring, Spring Boot, Spring Cloud, JPA, Mybatis, Mockito, Angular
 - DevOps: Scrum, Jenkins, Gitlab CI/CD pipeline, Azure DevOps(Azure Board, Azure Pipeline)
 - Database: Oracle DB, MS SQL, MySQL, MongoDB, Azure Cosmos NoSQL DB
 - Version Control: SVN, Git
@@ -34,8 +35,20 @@ Senior Backend Engineer
 
 ## Career Summary
   
+### 英諾瓦資訊科技 Innova Solutions 2022/12 - Present
 
-### 遠傳電信 Fareastone Telecom 2015/9 – Present 
+- Software Engineer
+
+#### Full stack Support
+
+
+Full stack development with DM-CAAS project
+
+Support for code quality, unit and integration test maintenance, and security upgrades
+
+Pair programming and construct new features continuously
+
+### 遠傳電信 Fareastone Telecom 2015/9 – 2022/12
 
 <img src="https://user-images.githubusercontent.com/21367916/190441042-1a87ca66-3ba2-4029-a9b9-78697ea05268.png" width="100"/>
 
@@ -111,6 +124,8 @@ Maintain the company's own libraries/utils
   - FET ISP and fixed network, hardware construction work dispatch system
 
 ## Recent project:
+- DM-CAAS
+  - Decision Management Content as a Service, which provides the most up-to-date clinical evidence-based criteria and software, and integrates facility and payer
 - Telecom Coupon
   - Connect our virtual currency Fcoin to online, offline channels and billing system. In our FET APP, you can use fcoin to buy Telecom Coupon, which you can use to discount you telecom payment bill immediately
   - Centralized coupon system is responsible for coupon status with finite-state machine and transaction control, also providing RESTful API to channels to access coupon data

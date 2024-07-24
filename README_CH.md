@@ -9,20 +9,21 @@ goateeya@gmail.com
 Fu Jen Catholic University - CSIE
 - 2008-2012
 
-Senior Backend Engineer
-
 ## Experience
-- Middleware service development, architecture, CI/CD
-- 專案技術顧問，end-to-end流程規劃
+- 使用Angular和Java全端開發經驗
+- 中間層(Middleware)服務開發，架構規劃，CI/CD實作
+- 專案技術顧問，end-to-end流程以及解決方案規劃
 - 1 years TypeScript
   - RESTfulAPI以及微服務架構:Azure Functions, TypeScript
   - Azure Cosmos NoSQL database實務開發經驗
   - 熟悉Azure cloud services
-- 8 years Java
+  - Angular開發經驗
+- 10 years Java
   - Spring MVC, Spring Boot, Mybatis, JPA, Mockito
   - Oracle database, stored procedure(PL/SQL)實務開發經驗
   - 熟悉Linux, Shell script
   - Event bus(Tibco EMS)實務開發經驗
+  - 單元以及整合測試撰寫、維護
   
 ## Skill
 - Programming Language: Java, TypeScript
@@ -34,6 +35,18 @@ Senior Backend Engineer
 
 ## Career Summary
   
+### 英諾瓦資訊科技 Innova Solutions 2022/12 - Present
+
+- Software Engineer
+
+#### Full stack Support
+
+
+DM-CAAS專案全端開發經驗
+
+改善並保證程式碼品質，單元以及整合測試馬撰寫維護，協助安全性改善以及升級
+
+Pair programming文化以及持續開發新feature
 
 ### 遠傳電信 Fareastone Telecom 2015/9 – Present 
 
@@ -119,6 +132,8 @@ ETL排程維護以及開發
   - 使用Java, Weblogic以及公司自有的前後端整合框架開發
 
 ## Recent project:
+- DM-CAAS
+  - Decision Management Content as a Service，提供最新的臨床實證標準以及軟體給客戶，並整合醫療單位以及保險業者服務
 - Telecom Coupon 電信帳單折抵券專案
   - 整合遠傳自己推出的虛擬貨幣Fcoin，與線上、線下通路以及後端帳務系統整合。在遠傳心生活可以使用Fcoin可以購買電信帳單折抵券，購買後可以於APP立即做使用馬上折抵至帳單
   - 票券資訊資中化，使用有限狀態機概念掌控交易狀態，除了統一交易狀態外亦提供RESTful API給通路系統存取票券資料

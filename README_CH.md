@@ -37,7 +37,7 @@ Fu Jen Catholic University - CSIE
   
 ### 英諾瓦資訊科技 Innova Solutions 2022/12 - Present
 
-![image](https://github.com/user-attachments/assets/0eb039aa-840c-412c-b5d5-6583c4227660)
+<img src="https://github.com/user-attachments/assets/0eb039aa-840c-412c-b5d5-6583c4227660" width="100"/>
 
 - Software Engineer
 

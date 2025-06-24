@@ -63,12 +63,11 @@ Improved and ensured code quality, wrote and maintained unit and integration tes
 
 Pair programming culture and continuous development of new features
 
-- InterQual Connect:
-  - A system that records medical diagnoses for patients in the United States and provides health insurance application services, integrating content and services (CaaS) between healthcare providers and insurance companies.
-  - Implementation and optimization of features such as authorization verification, content version control management, and administrator mode.
-  - Security maintenance and version migration upgrades.
-  - Implementation of accessibility features and UI adjustments.
-  - Comprehensive testing framework: Frontend with Playwright, Backend with Mockito.
+### InterQual Connect
+
+* **Core Healthcare Integration Platform**: Developed and optimized a critical system for recording patient medical diagnoses in the United States and providing health insurance application services, facilitating Content and Services (CaaS) integration between healthcare providers and insurance companies.
+* **Feature Enhancement & Maintenance**: Responsible for implementing and optimizing features like authorization verification, content version control management, and administrator mode; also performed security maintenance, version migration upgrades, and implemented accessibility features and UI adjustments.
+* **Comprehensive Testing Strategy**: Ensured system quality and stability through comprehensive testing, utilizing Playwright for frontend and Mockito for backend.
 
 ### 遠傳電信 Fareastone Telecom 2015/9 – 2022/12
 
@@ -90,9 +89,9 @@ Mentor for 2 mentees to this day
 *DevOps/Scrum* with *Gitlab CI/CD pipelines and Azure DevOps (Azure Board)*
 
 - FET Super APP middleware service
-  - Service management, traffic control planning and performance optimization
-  - Provide API to integrate the business logic of the dual platform
-  - End-to-end requirements analysis, design and development
+  - Service management, traffic control planning and performance optimization
+  - Provide API to integrate the business logic of the dual platform
+  - End-to-end requirements analysis, design and development
 
 #### Service transformation and CI/CD
 
@@ -103,24 +102,24 @@ Jenkins pipeline script to manage CI/CD process
 Log centralization and management with Kafka and ELK
  
 - Workflow
-  - Internal electronic signature system, sign-off flow control and rule design
+  - Internal electronic signature system, sign-off flow control and rule design
 
 - ICE
-  - Middle layer behind online and offline channels, provides composite services to fulfill requirement of billing information, customer data
-  - Architecture planning and implementation ETL batch for end-to-end data sync
+  - Middle layer behind online and offline channels, provides composite services to fulfill requirement of billing information, customer data
+  - Architecture planning and implementation ETL batch for end-to-end data sync
 - SID
-  - Data modelling and data flow integration with Apache Camel
+  - Data modelling and data flow integration with Apache Camel
   
 #### System enhancement
 System maintaining and enhancement
 
 - CRM service
-  - SOA Bus architecture service with SOAP interface
-  - TIBCO BusinessWorks, TIBCO EMS
+  - SOA Bus architecture service with SOAP interface
+  - TIBCO BusinessWorks, TIBCO EMS
 
 - NTF, CEM
-  - User mobile roaming and data usage notification, two-way SMS campaign service
-  - Weblogic, Java, Spring, Oracle DB
+  - User mobile roaming and data usage notification, two-way SMS campaign service
+  - Weblogic, Java, Spring, Oracle DB
 
 ### 博采科技 BravoTECH 2013/9 – 2015/8 
 
@@ -140,10 +139,10 @@ ETL job maintenance and development
 Maintain the company's own libraries/utils
 
 - RSMP
-  - FET report managerment portal, centralize reports from different systems, automatically synchronize files to users, and integrate well with service requirement systems
+  - FET report managerment portal, centralize reports from different systems, automatically synchronize files to users, and integrate well with service requirement systems
 
 - WO
-  - FET ISP and fixed network, hardware construction work dispatch system
+  - FET ISP and fixed network, hardware construction work dispatch system
 
 ## Recent project:
 - Coin Engine

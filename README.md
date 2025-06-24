@@ -1,6 +1,7 @@
-# 高誌陽(CHIH-YANG KAO) Gordan Kao
+# 高誌陽 (CHIH-YANG KAO) Gordan Kao
 
 <img src="https://user-images.githubusercontent.com/21367916/190450502-be6099a5-d41f-4f91-9931-f3b1ee9e017c.png" width="175"/>
+
 
 goateeya@gmail.com
 
@@ -10,39 +11,51 @@ Fu Jen Catholic University - CSIE
 - 2008-2012
 
 ## Experience
-- Full-stack development using Angular and Java Spring
-- Middleware service development, architecture, CI/CD
-- Project technical consulting, end-to-end business flow and solution planning
-- 1 year TypeScript
-  - API on Azure Functions with TypeScript
-  - Development experience with Azure Cosmos NoSQL database
-  - Familiar with Azure cloud services
-  - Development experience with Angular
-- 10 years Java
-  - Spring MVC, Spring Boot, Mybatis, JPA, Mockito
-  - Development experience with Oracle database, stored procedure in PL/SQL
-  - Familiar with Linux commands, Shell script
-  - Development experience with Event bus(Tibco EMS)
-  - Unit and integration testing experience
-  
+
+* **Full-stack Development & Architecture:** Proficient in full-stack development using **Angular** and **Java Spring**; skilled in middleware service development, system architecture planning, and implementing **CI/CD** pipelines.
+* **Project Consulting & Solution Planning:** Provides technical consulting for projects, responsible for end-to-end business flow and solution planning.
+* **TypeScript Development (1 year):**
+    * Developed **APIs on Azure Functions with TypeScript**.
+    * Experienced in developing with **Azure Cosmos NoSQL database** and familiar with **Azure cloud services**.
+    * Possesses **Angular** development experience.
+* **Java Development (12 years):**
+    * Proficient in mainstream frameworks including **Spring MVC**, **Spring Boot**, **Mybatis**, **JPA**, and **Mockito**.
+    * Extensive experience with various databases including **Oracle DB**, **PostgreSQL**, and utilizing **Redis** for caching and high-speed data access.
+    * Skilled in writing **PL/SQL stored procedures**.
+    * Familiar with **Linux commands** and **Shell Script**.
+    * Experienced in **Event Bus (Tibco EMS, Kafka)** development, specifically for asynchronous message processing.
+    * Extensive experience with Unit and Integration Testing.
+  
 ## Skill
 - Programming Language: Java, TypeScript
 - Framework: Spring, Spring Boot, Spring Cloud, JPA, Mybatis, Mockito, Angular
-- DevOps: Scrum, Jenkins, Gitlab CI/CD pipeline, Azure DevOps(Azure Board, Azure Pipeline)
-- Database: Oracle DB, MS SQL, MySQL, MongoDB, Azure Cosmos NoSQL DB
+- DevOps: Scrum, Jenkins, Gitlab CI/CD pipeline, Azure DevOps (Azure Board, Azure Pipeline)
+- Database: Oracle DB, MS SQL, MySQL, MongoDB, Azure Cosmos NoSQL DB, PostgreSQL, Redis
 - Version Control: SVN, Git
-- Others: Linux commands, Shell script, Docker, Jenkins, Azure Cloud Service, Tibco EMS
+- Others: Linux commands, Shell script, Docker, Jenkins, Azure Cloud Service, Tibco EMS, Kafka
 
 ## Career Summary
-  
-### 英諾瓦資訊科技 Innova Solutions 2022/12 - Present
 
+### 彼特思方舟 BTSE 2024/11 - Present
+
+![logo](https://github.com/user-attachments/assets/084378d7-dd7c-4508-b406-9c4ab34a31b4)
+
+- Software Engineer
+
+#### Blockchain and Coin Engine Development
+
+Developed and maintained core systems for a cryptocurrency exchange, focusing on high-performance and secure transaction processing.
+
+- Coin Engine Development: Engineered and optimized the Coin Engine, a critical component responsible for real-time block parsing and efficient processing of high-volume cryptocurrency withdrawal and deposit requests. This involved leveraging Redis for caching and high-speed data access, and PostgreSQL for robust transaction records.
+- Blockchain Integration & Token Listing: Spearheaded the integration with various blockchain networks and digital wallets, ensuring secure and seamless virtual currency listing processes. Gained deep knowledge of diverse blockchain protocols and their operational nuances.
+- Asynchronous Request Handling: Utilized Kafka to implement a reliable message queue for asynchronous handling of withdrawal and deposit requests, ensuring robust processing and system resilience.
+  
+### 英諾瓦資訊科技 Innova Solutions 2022/12 - 2024/11
 <img src="https://github.com/user-attachments/assets/0eb039aa-840c-412c-b5d5-6583c4227660" width="100"/>
 
 - Software Engineer
 
 #### Full stack Support
-
 
 Full-stack development experience
 
@@ -51,11 +64,11 @@ Improved and ensured code quality, wrote and maintained unit and integration tes
 Pair programming culture and continuous development of new features
 
 - InterQual Connect:
-  - A system that records medical diagnoses for patients in the United States and provides health insurance application services, integrating content and services (CaaS) between healthcare providers and insurance companies.
-  - Implementation and optimization of features such as authorization verification, content version control management, and administrator mode.
-  - Security maintenance and version migration upgrades.
-  - Implementation of accessibility features and UI adjustments.
-  - Comprehensive testing framework: Frontend with Playwright, Backend with Mockito.
+  - A system that records medical diagnoses for patients in the United States and provides health insurance application services, integrating content and services (CaaS) between healthcare providers and insurance companies.
+  - Implementation and optimization of features such as authorization verification, content version control management, and administrator mode.
+  - Security maintenance and version migration upgrades.
+  - Implementation of accessibility features and UI adjustments.
+  - Comprehensive testing framework: Frontend with Playwright, Backend with Mockito.
 
 ### 遠傳電信 Fareastone Telecom 2015/9 – 2022/12
 
@@ -74,12 +87,12 @@ Technical project manager in charge of end-to-end solution and architecture plan
 
 Mentor for 2 mentees to this day
 
-*DevOps/Scrum* with *Gitlab CI/CD pipelines and Azure DevOps(Azure Board)*
+*DevOps/Scrum* with *Gitlab CI/CD pipelines and Azure DevOps (Azure Board)*
 
 - FET Super APP middleware service
-  - Service management, traffic control planning and performance optimization
-  - Provide API to integrate the business logic of the dual platform
-  - End-to-end requirements analysis, design and development
+  - Service management, traffic control planning and performance optimization
+  - Provide API to integrate the business logic of the dual platform
+  - End-to-end requirements analysis, design and development
 
 #### Service transformation and CI/CD
 
@@ -88,28 +101,28 @@ Microservices development with *Spring Boot, Spring Cloud Gateway, Docker and Ku
 Jenkins pipeline script to manage CI/CD process
 
 Log centralization and management with Kafka and ELK
- 
+ 
 - Workflow
-  - Internal electronic signature system, sign-off flow control and rule design
+  - Internal electronic signature system, sign-off flow control and rule design
 
 - ICE
-  - Middle layer behind online and offline channels, provides composite services to fulfill requirement of billing information, customer data
-  - Architecture planning and implementation ETL batch for end-to-end data sync
+  - Middle layer behind online and offline channels, provides composite services to fulfill requirement of billing information, customer data
+  - Architecture planning and implementation ETL batch for end-to-end data sync
 - SID
-  - Data modelling and data flow integration with Apache Camel
-  
+  - Data modelling and data flow integration with Apache Camel
+  
 #### System enhancement
 System maintaining and enhancement
 
 - CRM service
-  - SOA Bus architecture service with SOAP interface
-  - TIBCO BusinessWorks, TIBCO EMS
+  - SOA Bus architecture service with SOAP interface
+  - TIBCO BusinessWorks, TIBCO EMS
 
 - NTF, CEM
-  - User mobile roaming and data usage notification, two-way SMS campaign service
-  - Weblogic, Java, Spring, Oracle DB
+  - User mobile roaming and data usage notification, two-way SMS campaign service
+  - Weblogic, Java, Spring, Oracle DB
 
-### 博采科技 BravoTECH 2013/9 – 2015/8 
+### 博采科技 BravoTECH 2013/9 – 2015/8 
 
 <img src="https://user-images.githubusercontent.com/21367916/190440874-3053e862-08f7-408b-9762-676062f5d64a.png" width="100"/>
 
@@ -127,12 +140,15 @@ ETL job maintenance and development
 Maintain the company's own libraries/utils
 
 - RSMP
-  - FET report managerment portal, centralize reports from different systems, automatically synchronize files to users, and integrate well with service requirement systems
+  - FET report managerment portal, centralize reports from different systems, automatically synchronize files to users, and integrate well with service requirement systems
 
 - WO
-  - FET ISP and fixed network, hardware construction work dispatch system
+  - FET ISP and fixed network, hardware construction work dispatch system
 
 ## Recent project:
+- Coin Engine
+  - Developed and maintained core functionalities for cryptocurrency transactions, including block parsing, efficient processing of withdrawal and deposit requests.
+  - Managed seamless integration with various blockchain networks and digital wallets, ensuring secure and accurate token listing and management.
 - InterQual Connect
   - As one of the largest software companies in the U.S. health insurance industry, it provides the latest clinical evidence-based criteria and software to clients, integrating services between healthcare providers and insurance companies
   - Ensures the sharing or exporting of medical examination results while protecting patient privacy, and automates the integration with partners' existing systems, such as hospitals or insurance companies

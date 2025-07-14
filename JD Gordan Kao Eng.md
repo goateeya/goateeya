@@ -9,7 +9,7 @@ Fu Jen Catholic University, Bachelor of Science in Computer Science and Informat
 
 ## Summary
 
-Highly skilled and experienced **Full-stack Software Engineer** with over 12 years of expertise in **Java** and **TypeScript** development. Proven track record in designing and implementing robust, scalable, and high-performance systems, including **blockchain core engines**, **healthcare integration platforms**, and **large-scale telecom services**. Proficient in **cloud technologies (Azure)**, **microservices architecture**, **CI/CD pipelines**, and **DevOps methodologies**. Adept at leading projects, mentoring teams, and delivering end-to-end solutions from architecture planning to deployment.
+Highly skilled and experienced **Full-stack Software Engineer** with over 11 years of expertise in **Java** and **TypeScript** development. Proven track record in designing and implementing robust, scalable, and high-performance systems, including **blockchain core engines**, **healthcare integration platforms**, and **large-scale telecom services**. Proficient in **cloud technologies (Azure)**, **microservices architecture**, **CI/CD pipelines**, and **DevOps methodologies**. Adept at leading projects, mentoring teams, and delivering end-to-end solutions from architecture planning to deployment.
 
 ---
 

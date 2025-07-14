@@ -1,6 +1,6 @@
 # 高誌陽 (CHIH-YANG KAO) Gordan Kao
 
-<img src="https://user-images.githubusercontent.com/21367916/190450502-be6099a5-d41f-4f91-9931-f3b1ee9e017c.png" width="150"/>
+<img src="https://github.com/user-attachments/assets/898f6108-35ff-4bd9-b9d7-4206e7b0d06a" width="300"/>
 
 **Full-stack Software Engineer | 11+ Years Experience**
 

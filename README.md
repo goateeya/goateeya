@@ -50,4 +50,4 @@
 
 ## 聯繫我
 
-對我的專案有興趣？歡迎透過 [Email](mailto:goateeya@gmail.com) 聯繫，或查看我的 [GitHub Repositories](https://github.com/goateeya?tab=repositories) 了解更多。
+對我的專案有興趣？歡迎透過 [Email](mailto:goateeya@gmail.com) 聯繫，或查看我的 [GitHub Repositories](https://github.com/goateeya/goateeya) 了解更多。
